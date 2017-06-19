@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## 30 Second Prototypes
+
+**Remember:** You don't need any IT to start prototyping. Pens and paper are quick and easy or you could even use a smart phone to film yourself acting out a scenario!
+
+You don't need a lot of IT equipment or loads of technical skills to create prototypes. You can grab some [images](https://www.google.co.uk/search?q=smartphone+vector+free+download&tbm=isch) from the web and create a story boards in your favourite presentation software. For a similar amount of effort you can create something that you can share online and people can try on their computer of mobile phone. Why not give it a try?
+
+### Sign up for GitHub
+
+Head to `github.com`
 
 You can use the [editor on GitHub](https://github.com/cioportfolio/homelesstemplate/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
