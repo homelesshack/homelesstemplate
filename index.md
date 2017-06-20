@@ -2,7 +2,7 @@
 
 **Remember:** You don't need any IT to start prototyping. Pens and paper are quick and easy or you could even use a smart phone to film yourself acting out a scenario!
 
-You don't need a lot of IT equipment or loads of technical skills to create prototypes. You can grab some [images](https://www.google.co.uk/search?q=smartphone+vector+free+download&tbm=isch) from the web and create a story boards in your favourite presentation software. For a similar amount of effort you can create something that you can share online and people can try on their computer of mobile phone. Why not give it a try?
+You don't need a lot of IT equipment or loads of technical skills to create prototypes. You can grab some [images](https://www.google.co.uk/search?q=smartphone+vector+free+download&tbm=isch) from the web and create a story boards in your favourite presentation software. For a similar amount of effort you can create something that you can share online and people can try on their computer or mobile phone. Why not give it a try?
 
 ### Sign up for GitHub
 
@@ -36,7 +36,7 @@ Choose a template and use the button to create a basic site. You can change the 
 ![select template](Slide7.png)
 
 ### Edit the content of your site
-Now you can edit the contents of your website. The default page includes some examples of the simple markup language that it uses to get you started. Each time you commit a change GitHub will take a few minutes to republish the site.
+Now you can edit the contents of your website. The default page includes some examples of the simple markup language that it uses to get you started. Each time you commit a change GitHub will take a few seconds to republish the site.
 
 ![editor](Slide8.png)
 
