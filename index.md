@@ -6,7 +6,8 @@ You don't need a lot of IT equipment or loads of technical skills to create prot
 
 ### Sign up for GitHub
 
-Head to `github.com`
+Head to [GitHub](githib.com) and sign up for an account.
+![github registration](https://drive.google.com/open?id=1jrse2yyekMzcNhZcgOeCEksboFzNzAPwKA)
 
 You can use the [editor on GitHub](https://github.com/cioportfolio/homelesstemplate/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
