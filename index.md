@@ -45,4 +45,4 @@ Your site is now on the internet! You can find a link to the site from the repos
 
 ![site URL](Slide9.png)
 
-There are loads of things that you can try with this site and the GitHub repository including sharing with a team, collaborating on changes and adding other software. If you want to go further GDS have created a great [prototype kit](https://govuk-prototype-kit.herokuapp.com/docs/install/introduction).
+There are [loads of things](https://pages.github.com/) that you can try with this site and the GitHub repository including sharing with a team, collaborating on changes and adding other software. If you want to go further GDS have created a great [prototype kit](https://govuk-prototype-kit.herokuapp.com/docs/install/introduction).
