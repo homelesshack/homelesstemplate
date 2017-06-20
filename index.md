@@ -10,38 +10,39 @@ Head to [GitHub](https://github.com) and sign up for an account.
 
 ![github registration](Slide1.PNG)
 
-You can use the [editor on GitHub](https://github.com/cioportfolio/homelesstemplate/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Create a space for your prototype
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These are called "repositories" in GitHub and you can create them from a drop down menu at the top of the GitHub page for your account.
 
-### Markdown
+![new repository](Slide2.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Think of a short memorable name for the respository as this will be part of the web link for the prototype later.
 
-```markdown
-Syntax highlighted code block
+![repository setup page](Slide3.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+### Create a template website
 
-- Bulleted
-- List
+You can create a simple website from the settings menu of your new repository.
 
-1. Numbered
-2. List
+![repository menu](Slide4.PNG)
 
-**Bold** and _Italic_ and `Code` text
+You will need to scroll down to the bottom to find the website settings.
 
-[Link](url) and ![Image](src)
-```
+![repository settings](Slide5.PNG)
+![website settings](Slide6.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Choose a template and use the button to create a basic site. You can change the template in the repository settings if you change your mind later.
 
-### Jekyll Themes
+![select template](Slide7.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cioportfolio/homelesstemplate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Edit the content of your site
+Now you can edit the contents of your website. The default page includes some examples of the simple markup language that it uses to get you started. Each time you commit a change GitHub will take a few minutes to republish the site.
 
-### Support or Contact
+![editor](Slide8.PNG)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Try out your new site and share the link
+Your site is now on the internet! You can find a link to the site from the repository settings page.
+
+![site URL](Slide9.PNG)
+
+There are loads of things that you can try with this site and the GitHub repository including sharing with a team, collaborating on changes and adding other software. If you want to go further GDS have created a great [prototype kit](https://govuk-prototype-kit.herokuapp.com/docs/install/introduction).
