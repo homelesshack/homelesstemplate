@@ -1,4 +1,4 @@
-> [Also see the main #homelesshack pages](homelesshack.github.io)
+> [Also see the main #homelesshack pages](https://homelesshack.github.io)
 
 ## 30 Second Prototypes
 
