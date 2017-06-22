@@ -1,3 +1,5 @@
+> [Also see the main #homelesshack pages](homelesshack.github.io)
+
 ## 30 Second Prototypes
 
 **Remember:** You don't need any IT to start prototyping. Pens and paper are quick and easy or you could even use a smart phone to film yourself acting out a scenario!
