@@ -1,18 +1,16 @@
 > [Also see the main #homelesshack pages](https://homelesshack.github.io)
 
-## 30 Second Prototypes
-
 **Remember:** You don't need any IT to start prototyping. Pens and paper are quick and easy or you could even use a smart phone to film yourself acting out a scenario!
 
 You don't need a lot of IT equipment or loads of technical skills to create prototypes. You can grab some [images](https://www.google.co.uk/search?q=smartphone+vector+free+download&tbm=isch) from the web and create a story boards in your favourite presentation software. For a similar amount of effort you can create something that you can share online and people can try on their computer or mobile phone. Why not give it a try?
 
-### Sign up for GitHub
+## Sign up for GitHub
 
 Head to [GitHub](https://github.com) and sign up for an account.
 
 ![github registration](Slide1.png)
 
-### Create a space for your prototype
+## Create a space for your prototype
 
 These are called "repositories" in GitHub and you can create them from a drop down menu at the top of the GitHub page for your account.
 
@@ -22,7 +20,7 @@ Think of a short memorable name for the respository as this will be part of the 
 
 ![repository setup page](Slide3.png)
 
-### Create a template website
+## Create a template website
 
 You can create a simple website from the settings menu of your new repository.
 
@@ -37,12 +35,12 @@ Choose a template and use the button to create a basic site. You can change the 
 
 ![select template](Slide7.png)
 
-### Edit the content of your site
+## Edit the content of your site
 Now you can edit the contents of your website. The default page includes some examples of the simple markup language that it uses to get you started. Each time you commit a change GitHub will take a few seconds to republish the site.
 
 ![editor](Slide8.png)
 
-### Try out your new site and share the link
+## Try out your new site and share the link
 Your site is now on the internet! You can find a link to the site from the repository settings page.
 
 ![site URL](Slide9.png)
